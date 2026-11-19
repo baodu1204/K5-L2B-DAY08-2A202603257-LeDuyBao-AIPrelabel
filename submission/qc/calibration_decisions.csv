@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_003.jpg,loi_may,YOLO phát hiện sai xe ba bánh ở mái hiên và vùng nền không có xe ba bánh,Box #3 và #4 là thua; không gán xe ba bánh khi chỉ thấy mái hiên/mái che hoặc nền đường; ba bánh chỉ gộp thành một box khi khung xe và phần ba bánh có thể nhận ra,v1.1
+CAL-02,img_006.jpg,cau_hoi_mo,Khối xe máy đỗ dày đặc gần camera có nên gộp ignore_region hay gán từng xe,Các xe máy có bánh và thân riêng còn nhìn thấy được thì gán từng motorbike; ignore_region chỉ dùng khi cụm vật dày và không thể tách từng vật,cụ thể mức cao 20 px và phần nhìn thấy 20% trở lên,v1.1
+CAL-03,img_029.jpg,bay_lot,Bẫy missing lọt trong cảnh giao thông đêm đông; vật rõ ràng có thể bị bỏ sót,Xác nhận lại từng vật trước khi kết thúc duyệt; gán motorbike/person rõ khi nhìn thấy tối thiểu 20% diện tích và cao ít nhất 20 px thay vì bỏ qua cụm chỉ vì cảnh tối,v1.1

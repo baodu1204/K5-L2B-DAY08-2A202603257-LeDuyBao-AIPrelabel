@@ -1,0 +1,25 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,,Đã kiểm overlay; box three_wheeler theo xe ba bánh nhìn thấy, không thấy lỗi rõ ràng.
+img_004.jpg,,khong,,Đã kiểm overlay; các box xe và người tách riêng, không thấy lỗi rõ ràng.
+img_005.jpg,,khong,,Đã kiểm overlay; không thấy box thừa hoặc sai lớp rõ ràng trong cảnh đông.
+img_006.jpg,,khong,,Đã kiểm overlay; các box xe máy/người và xe tải nhìn thấy được tách riêng.
+img_008.jpg,,khong,,Đã kiểm lại bản đã sửa; ba xe ba bánh có box riêng, không còn box gộp/lấn đáng kể.
+img_009.jpg,,khong,,Đã kiểm lại bản đã sửa; box motorbike được thu gọn, không còn phần hàng nhô xa như bản trước.
+img_010.jpg,,khong,,Đã kiểm overlay; box tuk-tuk và người đi xe tách riêng, không thấy lỗi rõ ràng.
+img_013.jpg,,khong,,Đã kiểm overlay; không thấy lỗi rõ ràng ngoài vùng ignore được đánh dấu.
+img_014.jpg,,khong,,Đã kiểm overlay; các box người và xe máy bám vật nhìn thấy.
+img_017.jpg,,khong,,Đã kiểm overlay; các box tuk-tuk bao phương tiện tương ứng.
+img_018.jpg,,khong,,Đã kiểm overlay; vùng phương tiện xa/mờ được xử lý bằng ignore_region, không thấy lỗi rõ ràng.
+img_021.jpg,,khong,,Đã kiểm overlay; box xe và người trong luồng giao thông không thấy lỗi rõ ràng.
+img_022.jpg,,khong,,Đã kiểm overlay; người và xe máy trong cảnh đêm được tách riêng.
+img_023.jpg,,khong,,Đã kiểm overlay; các box tuk-tuk tương ứng từng xe, không thấy box gộp rõ ràng.
+img_024.jpg,,khong,,Đã kiểm overlay; các box ô tô, xe buýt và xe máy không thấy lỗi rõ ràng.
+img_025.jpg,,khong,,Đã kiểm overlay; người và phương tiện trong chợ không thấy lỗi rõ ràng.
+img_026.jpg,,khong,,Đã kiểm overlay; xe máy đỗ sát được đánh dấu riêng, không thấy box gộp lỗi rõ ràng.
+img_027.jpg,,khong,,Đã kiểm overlay; các box người và xe máy bám vật nhìn thấy.
+img_028.jpg,,khong,,Đã kiểm overlay; không thấy box thừa hoặc sai lớp rõ ràng.
+img_029.jpg,,khong,,Đã kiểm overlay cảnh tối; các phương tiện rõ được đánh dấu, không nhận thấy lỗi rõ ràng.
+img_031.jpg,,khong,,Đã kiểm overlay; box bicycle bao xe chở hàng và người có box riêng.
+img_033.jpg,,khong,,Đã kiểm overlay; các box người và xe trong cảnh đông không thấy lỗi rõ ràng.
+img_034.jpg,,khong,,Đã kiểm overlay; xe máy và three_wheeler được phân biệt theo phương tiện.
+img_035.jpg,,khong,,Đã kiểm overlay; box người, xe đạp và xe máy không thấy lỗi rõ ràng.

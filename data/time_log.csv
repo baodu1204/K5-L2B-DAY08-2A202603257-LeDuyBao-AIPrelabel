@@ -1,0 +1,5 @@
+step,images,minutes,note
+gold_manual,4,12,"gán tay 4 ảnh"
+batch_review,24,30,"Tổng thời gian người dùng báo đã review/sửa 24 ảnh batch; 1.25 phút/ảnh"
+prelabel_inference_yolo26m,1,0.0153,"0.92 giây/ảnh theo model_log.csv r01; chuẩn hóa theo ảnh từ pilot, không gồm thời gian người duyệt"
+prelabel_inference_yoloe_three_wheeler,1,0.0048,"0.29 giây/ảnh theo model_log.csv r03; chuẩn hóa theo ảnh từ pilot, không gồm thời gian người duyệt"
